@@ -1,0 +1,19 @@
+{
+  "name": "task-2",
+  "version": "1.0.0",
+  "main": "board.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "nodemon",
+    "board": "ts-node board.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
